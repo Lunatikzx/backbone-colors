@@ -1,0 +1,34 @@
+{
+	"build_systems":
+	[
+		{
+			"linux":
+			{
+				"cmd":
+				[
+					"/usr/bin/google-chrome",
+					"$project_path/index.html"
+				]
+			},
+			"name": "Browser",
+			"osx":
+			{
+				"cmd":
+				[
+					"open",
+					"$project_path/index.html"
+				]
+			},
+			"windows":
+			{
+				"cmd":
+				[
+					"cmd",
+					"/c",
+					"start",
+					"index.html"
+				]
+			}
+		}
+	]
+}

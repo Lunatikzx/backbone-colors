@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>backbone-colors</title>
+	<link rel="stylesheet" type="text/css" href="styles/main.css">
+
+</head>
+<body>
+
+<article id="squares">
+<header >
+    <h1>Backbone colors</h1>
+    <nav>
+
+    </nav>
+</header>
+    <article id="main_container">
+        <button data-color="red" id="red">Rouge</button>
+        <button data-color="blue" id="blue">Bleu</button>
+        <button data-color="green" id="green">Vert</button>
+        <div id="squareList">
+            
+        </div>
+    </article>
+</article>
+
+</body>
+   
+    <script type="text/template" id="square_template">
+        <div class="square <%= color %>"></div>
+    </script>
+   
+    <script type="text/javascript" src="bower_components/underscore/underscore.js"></script>
+    <script type="text/javascript" src="bower_components/zepto/zepto.js"></script>
+    <script type="text/javascript" src="bower_components/backbone/backbone.js"></script>
+    <script type="text/javascript" src="scripts/libs/backbone.localStorage.js"></script>
+    <script type="text/javascript" src="scripts/app.js"></script>
+    <script type="text/javascript" src="scripts/models/square.js"></script>
+    <script type="text/javascript" src="scripts/collections/squares.js"></script>
+    <script type="text/javascript" src="scripts/views/square-view.js"></script>
+    <script type="text/javascript" src="scripts/views/app-view.js"></script>
+    <script type="text/javascript" src="scripts/router/router.js"></script>
+
+</html>

@@ -1,0 +1,21 @@
+{
+  "name": "backbone-colors",
+  "version": "0",
+  "authors": [
+    "jean-philippe lambert <jean-philippe.lambert@.ca>"
+  ],
+  "description": "Application backbone",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.1"
+  }
+}

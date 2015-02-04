@@ -1,0 +1,691 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wp_remote",
+				"wp_remote_get"
+			],
+			[
+				"adr",
+				"apiBaseAddress"
+			],
+			[
+				"api",
+				"apiParam"
+			],
+			[
+				"args",
+				"argsLength"
+			],
+			[
+				"arg",
+				"argsLength"
+			],
+			[
+				"item",
+				"itemTemplate	(str)"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"con",
+				"construct	CI - Class Constructor"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"affi",
+				"afficherCarre"
+			],
+			[
+				"nb",
+				"nbrBureau"
+			],
+			[
+				"add",
+				"addOne(sq)"
+			],
+			[
+				"S",
+				"SquareView()"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"width",
+				"min-width"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"st",
+				"statsTemplate(data)"
+			],
+			[
+				"initl",
+				"initialize"
+			],
+			[
+				"todo",
+				"todo-backbone"
+			],
+			[
+				"lis",
+				"list-c	list-style-type: circle;"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"wp_inert",
+				"wp_insert_post"
+			],
+			[
+				"wp_insetr",
+				"wp_insert_post"
+			],
+			[
+				"regster",
+				"register_taxonomy	Register Taxonomy All Options"
+			],
+			[
+				"register_pos",
+				"register_post_type	Register Post Type All Options"
+			],
+			[
+				"register",
+				"register_post_type	Register Post Type All Options"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"get_he",
+				"get_header"
+			],
+			[
+				"register_s",
+				"register_sidebar"
+			],
+			[
+				"registe",
+				"register_nav_menus"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"fotn",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"PHP",
+				"phpmailer_init"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"regis",
+				"register_nav_menus"
+			],
+			[
+				"gt_he",
+				"get_header"
+			],
+			[
+				"info",
+				"infoHabitation"
+			],
+			[
+				"arr",
+				"arr_input"
+			],
+			[
+				"amo",
+				"reclamation_amount_"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 378.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"ci mod",
+				"Snippet: CI - Base Model"
+			],
+			[
+				"ci",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"model",
+				"Snippet: CI - Base Model"
+			],
+			[
+				"controller",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"ssra",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"sse",
+				"Set Syntax: ERB"
+			],
+			[
+				"sserb",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ssru",
+				"Set Syntax: Rust"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"sshan",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ss ph",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 396.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jplambert/dev/indubitable/wp-content/plugins/imgur_feeder/imgur_feeder.php",
+		"/home/jplambert/dev/indubitable/wp-content/plugins/imgur_feeder/index.php",
+		"/home/jplambert/dev/indubitable/wp-content/plugins/imgur_feeder/imgur_feeder.class.php",
+		"/home/jplambert/Dropbox/plugin/imgur_feeder/imgur_feeder_procedural.php",
+		"/home/jplambert/Dropbox/plugin/imgur_feeder/imgur_feeder.php",
+		"/home/jplambert/dev/indubitable/wp-content/plugins/imgur_feeder/include/imgurapi.class.php",
+		"/home/jplambert/dev/indubitable/wp-content/plugins/imgur_feeder/parents.class.php",
+		"/home/jplambert/dev/indubitable/wp-content/plugins/imgur_feeder/recur.php",
+		"/home/jplambert/dev/indubitable/wp-content/plugins/imgur_feeder/includes/imgurapi.class.php",
+		"/home/jplambert/dev/indubitable/wp-content/plugins/imgur_feeder/includes/parents.class.php",
+		"/home/jplambert/dev/indubitable/wp-content/plugins/imgur_feeder/includes/api.interface.php",
+		"/home/jplambert/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jplambert/dev/jquery_basics_empty/scripts/main.js",
+		"/home/jplambert/dev/jquery_basics_empty/index.html",
+		"/home/jplambert/dev/jquery_basics/scripts/main.js",
+		"/home/jplambert/Dropbox/jquery_basics/jquery_basics/scripts/main.js",
+		"/home/jplambert/Downloads/examen_reprise/examen_reprise/application/views/main/pekomon.php",
+		"/home/jplambert/dev/indubitable/application/controllers/users.php",
+		"/home/jplambert/dev/indubitable/application/views/users/partial.php",
+		"/home/jplambert/dev/indubitable/application/views/users/users.php",
+		"/home/jplambert/Desktop/Examen/application/models/plateforme_model.php",
+		"/home/jplambert/Desktop/Examen/application/models/jeu_model.php",
+		"/home/jplambert/Desktop/Examen/application/controllers/jeu.php",
+		"/home/jplambert/dev/indubitable/application/models/users_model.php",
+		"/home/jplambert/dev/indubitable/application/views/users/updateUser.php",
+		"/home/jplambert/dev/indubitable/application/config/config.php",
+		"/home/jplambert/dev/indubitable/application/config/database.php",
+		"/home/jplambert/dev/indubitable/application/controllers/welcome.php",
+		"/home/jplambert/dev/indubitable/application/views/welcome_message.php",
+		"/home/jplambert/dev/indubitable/application/config/routes.php",
+		"/home/jplambert/dev/indubitable/application/config/autoload.php",
+		"/home/jplambert/Downloads/Application_backbone_TP2_prog_420DW5FX_08120/copy/Backbone_(Sylvie_Dube)/app/views/app-view.js",
+		"/home/jplambert/Downloads/Application_backbone_TP2_prog_420DW5FX_08120/copy/Backbone_(Sylvie_Dube)/app/app.js",
+		"/home/jplambert/Downloads/Application_backbone_TP2_prog_420DW5FX_08120/copy/Backbone_(Sylvie_Dube)/app/views/carre-view.js",
+		"/home/jplambert/Downloads/Application_backbone_TP2_prog_420DW5FX_08120/copy/Backbone_(Sylvie_Dube)/app/models/carre.js",
+		"/home/jplambert/Downloads/Application_backbone_TP2_prog_420DW5FX_08120/copy/Backbone_(Sylvie_Dube)/app/collections/carres.js",
+		"/home/jplambert/dev/indubitable/application/models/jeu_model.php",
+		"/home/jplambert/dev/indubitable/application/controllers/jeu.php",
+		"/home/jplambert/dev/indubitable/application/models/plateforme_model.php",
+		"/home/jplambert/dev/indubitable/application/views/jeu/liste.php",
+		"/home/jplambert/dev/indubitable/application/views/plateforme/liste.php",
+		"/home/jplambert/dev/backbone-colors/scripts/app.js",
+		"/home/jplambert/dev/backbone-colors/scripts/views/app-view.js",
+		"/home/jplambert/dev/backbone-colors/scripts/views/square-view.js",
+		"/home/jplambert/dev/backbone-colors/index.html",
+		"/home/jplambert/dev/backbone-colors/scripts/collections/squares.js",
+		"/home/jplambert/dev/indubitable/application/controllers/plateforme.php",
+		"/home/jplambert/dev/indubitable/wp-config.php",
+		"/home/jplambert/dev/indubitable/wp-content/themes/twentytwelve/content.php",
+		"/home/jplambert/dev/indubitable/wp-content/wordpresswoo.sql",
+		"/home/jplambert/dev/indubitable/kartoffelundbier.wordpress.2014-12-24.xml",
+		"/home/jplambert/dev/indubitable/wordpress-rolandojulian/wordpress-rolandojulian/wp-content/themes/Biere/accueil.php",
+		"/home/jplambert/dev/indubitable/wordpress-rolandojulian/wordpress-rolandojulian/wp-content/themes/Biere/proprietaires.php",
+		"/home/jplambert/dev/indubitable/Zuniga_1490235_TP2_integration_Remis_le_2014-12-23_16h38m51s/source/single-messages.php",
+		"/home/jplambert/dev/indubitable/tp2_integration_(TurgeonVeronique_LacombeNicolas)/sources/kartoffelundbier/kartofelundbier/maquette_html/index.html",
+		"/home/jplambert/dev/indubitable/tp2_integration_(Caroline_Savard_Danielle_Pageau)/codesource/tpWoocommerce/woocommerce.php",
+		"/home/jplambert/dev/indubitable/tp2_integration_(jonathan-charles)/code_source_du_theme/woocommerce/_notes/dwsync.xml",
+		"/home/jplambert/dev/indubitable/Remise_TP2WooCommerce_(abeaulieu_eGiguere)/kartoffel_source/woocommerce.php",
+		"/home/jplambert/dev/indubitable/bieres/source/cart.php",
+		"/home/jplambert/dev/indubitable/kartoffel_theme/404.php",
+		"/home/jplambert/dev/indubitable/Chouinard_1490215_TP2_integration_Remis_le_2014-12-24_00h10m01s/kartoffel-und-bier/functions.php",
+		"/home/jplambert/dev/indubitable/Code_source/wp-content/themes/Kartoffel_und_Bier/biere_en_vedette.php",
+		"/home/jplambert/dev/ruby/pekomons/app/controllers/articles_controller.rb",
+		"/home/jplambert/dev/ruby/pekomons/app/views/articles/show.html.erb",
+		"/home/jplambert/Downloads/Application_backbone_TP2_prog_420DW5FX_08120/copy/tp2/index.html",
+		"/home/jplambert/dev/ruby/pekomons/app/views/articles/new.html.erb",
+		"/home/jplambert/Downloads/Application_backbone_TP2_prog_420DW5FX_08120/copy/tpbackbone/index.html",
+		"/home/jplambert/Dropbox/examen_reprise/application/views/main/pekomon.php",
+		"/home/jplambert/dev/ruby/pekomons/config/routes.rb",
+		"/home/jplambert/dev/ruby/pekomons/app/views/layouts/application.html.erb",
+		"/home/jplambert/Downloads/Examen_1__420DW5FX_08120/done/examen/application/models/plateforme_model.php",
+		"/home/jplambert/Downloads/Examen_1__420DW5FX_08120/done/examen/application/models/jeu_model.php",
+		"/home/jplambert/Downloads/Examen_1__420DW5FX_08120/done/examen/application/controllers/jeu.php",
+		"/home/jplambert/dev/indubitable/final/application/views/main/pekomonnemesis.php",
+		"/home/jplambert/dev/indubitable/final/application/views/main/pekomon.php",
+		"/home/jplambert/dev/indubitable/final/application/views/partials/pekomonfamilly.php",
+		"/home/jplambert/dev/indubitable/final/application/models/attributemodel.php",
+		"/home/jplambert/dev/indubitable/final/application/models/pekomonmodel.php",
+		"/home/jplambert/dev/indubitable/final/application/controllers/pekomon.php",
+		"/home/jplambert/Downloads/Examen/application/models/jeu_model.php",
+		"/home/jplambert/Downloads/Examen/application/models/plateforme_model.php",
+		"/home/jplambert/Downloads/Examen/application/controllers/jeu.php",
+		"/home/jplambert/Downloads/Examen/application/views/jeu/liste.php",
+		"/home/jplambert/dev/indubitable/done/examen_Franz_pinzon/application/models/jeu_model.php",
+		"/home/jplambert/Dropbox/Pekomon/application/controllers/pekomon.php",
+		"/home/jplambert/Dropbox/Pekomon (2)/application/controllers/pekomon.php",
+		"/home/jplambert/dev/rust/hello_world/src/helloworld.rs",
+		"/home/jplambert/dev/rust/hello_world/src/Cargo.toml",
+		"/home/jplambert/dev/rust/hello_world/helloworld.rs",
+		"/home/jplambert/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/jplambert/dev/indubitable/application/models/exemple_model.php",
+		"/home/jplambert/dev/indubitable/application/views/patate_frite.php",
+		"/home/jplambert/dev/indubitable/application/controllers/exemple.php",
+		"/home/jplambert/dev/indubitable/application/views/test.php",
+		"/home/jplambert/dev/indubitable/application/views/untitled.js",
+		"/home/jplambert/dev/indubitable/application/models/index.html",
+		"/home/jplambert/dev/indubitable/application/views/index.html",
+		"/home/jplambert/dev/backbone-colors/scripts/router/router.js",
+		"/home/jplambert/dev/progtp2/TP2_Backbone/app/views/app-view.js",
+		"/home/jplambert/dev/progtp2/TP2_Backbone/app/views/carre-view.js",
+		"/home/jplambert/dev/progtp2/TP2_Backbone/index.html",
+		"/home/jplambert/dev/progtp2/TP2_Backbone/app/collections/collectionCarres.js",
+		"/home/jplambert/dev/progtp2/TP2_Backbone/css/style.css",
+		"/home/jplambert/dev/progtp2/TP2_Backbone/app/views/carre_review.js",
+		"/home/jplambert/dev/progtp2/tp2 - Copie/app/app.js",
+		"/home/jplambert/dev/progtp2/tp2 - Copie/app/collections/carres.js",
+		"/home/jplambert/dev/progtp2/tp2 - Copie/app/models/carre.js",
+		"/home/jplambert/dev/progtp2/tp2 - Copie/app/views/carre-view.js",
+		"/home/jplambert/dev/progtp2/tp2 - Copie/app/views/app-view.js",
+		"/home/jplambert/dev/progtp2/tp2 - Copie/index.html",
+		"/home/jplambert/dev/progtp2/tp2 - Copie/css/main.css",
+		"/home/jplambert/dev/progtp2/tp2 - Copie/js/plugins.js",
+		"/home/jplambert/dev/reprise/interpretation/index.php",
+		"/home/jplambert/dev/progtp2/app/views/app-view.js",
+		"/home/jplambert/dev/progtp2/app/views/cube-view.js",
+		"/home/jplambert/dev/reprise/interpretation/index_acc.php",
+		"/home/jplambert/dev/progtp2/app/index.html",
+		"/home/jplambert/dev/progtp2/backbone_HarveyMelody/index.html",
+		"/home/jplambert/dev/progtp2/backbone_HarveyMelody/app/views/app-view.js",
+		"/home/jplambert/dev/progtp2/backbone_HarveyMelody/app/models/cubeModels.js",
+		"/home/jplambert/dev/progtp2/backbone_HarveyMelody/app/views/cube-view.js",
+		"/home/jplambert/dev/progtp2/tpbackbone/index.html",
+		"/home/jplambert/dev/progtp2/TP2_Backbone/app/models/carre.js",
+		"/home/jplambert/dev/progtp2/TP2_Backbone/app/collections/carres.js",
+		"/home/jplambert/dev/progtp2/TP2_Backbone/app/app.js",
+		"/home/jplambert/dev/progtp2/TPBackbone/app/views/app-view.js",
+		"/home/jplambert/dev/progtp2/TPBackbone/app/views/carre-view.js",
+		"/home/jplambert/dev/progtp2/TPBackbone/app/collections/carres.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"parent",
+			"this",
+			"();",
+			"dir",
+			"content",
+			"Prenom",
+			"<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');\n\nclass Users extends CI_Controller {\n\n    public function index()\n    {\n        $this->getUsers();\n    }\n\n    public function getUsers(){\n        $data['users'] = array(\"Nom\"=>\"Jambon\", \"Prenom\"=>\"Caillou\");\n        $this->load->view(\"users/users\", $data);\n    }\n    \n}\n\n/* End of file users.php */\n/* Location: ./application/controllers/users.php */",
+			"c",
+			";\n",
+			"afficherCouleur",
+			"sq",
+			"event",
+			"nbrMurs",
+			"\"></",
+			"newAttributes",
+			"this",
+			">\n",
+			"javascript",
+			");\n",
+			"'];\n",
+			"view",
+			"\");\n",
+			"a",
+			"\"></",
+			"backbone",
+			"utiliser",
+			"\">\n",
+			"”",
+			"scripts",
+			";\n",
+			"\n.qui-sommes-nous{\n	padding:0!important; \n}",
+			"\nqui\n",
+			"qui-sommes-nous",
+			"	jQuery('#back-to-top, .back-to-top').click(function() {\n		  jQuery('html, body').animate({ scrollTop:0 }, '800');\n		  return false;\n	});",
+			"\n                        <table style=\"background-color:#4c4c4c\" cellpadding=\"0\" height=\"150\" valign=\"top\" cellspacing=\"0\" align=\"left\" width=\"50%\">\n                            <tr>\n                                <td>\n                                    Right column\n                                </td>\n                            </tr>\n                        </table>",
+			" <table style=\"background-color:#4c4c4c\" cellpadding=\"0\" height=\"150\" valign=\"top\" cellspacing=\"0\" align=\"left\" width=\"50%\">\n                            <tr>\n                                <td>\n                                    Right column\n                                </td>\n                            </tr>\n                        </table>",
+			" </ul>",
+			"=\"",
+			"box",
+			"</a>",
+			"<a href=\"#\">",
+			"okVideo",
+			", 'text-domain'",
+			"p",
+			"ol1",
+			"scss",
+			"\n                <li>\n                    <a href=\"#\">menu_1</a>\n                </li>",
+			"                <li>\n                    <a href=\"#\">menu_1</a>\n                </li>",
+			");\n",
+			"'",
+			"i",
+			"h2",
+			"h3",
+			"h2",
+			"Raleway",
+			"Helvetica Neue\", \"Helvetica",
+			"font-family",
+			"font",
+			"icon",
+			"success",
+			"label",
+			" Chuck kevin rump hamburger pastrami beef ribs, t-bone pork chop bresaola sausage prosciutto jowl meatball. Turkey short ribs fatback, shoulder prosciutto pancetta pork chop beef ribs venison. Sirloin frankfurter salami ground round shoulder. Ball tip pork belly shankle, landjaeger turkey sirloin venison.",
+			"/>\n",
+			"h4",
+			" <div class=\"row\">\n            <div class=\"large-8 columns\">\n              <h4>In the lair of the Atom</h4>\n              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo esse natus, cupiditate quidem facere veniam in voluptas nesciunt, aliquam ad odit maxime, beatae obcaecati. Doloribus, natus modi rem alias minus.Earum, ad corrupti totam tempore animi, consequatur ex. Eligendi minus earum, quos atque accusamus eos voluptatibus omnis veniam accusantium sapiente ipsum reprehenderit quam inventore, veritatis dolorum ab aut, distinctio! Quidem!\n              </p>\n            </div>\n        </div>",
+			"Content",
+			">\n",
+			";\n",
+			"white",
+			"w",
+			"<path\n       sodipodi:type=\"arc\"\n       style=\"fill:white;stroke:white;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1\"\n       id=\"circleTwo\"\n       sodipodi:cx=\"182.85715\"\n       sodipodi:cy=\"195.21933\"\n       sodipodi:rx=\"134.28572\"\n       sodipodi:ry=\"134.28572\"\n       d=\"m 317.14287,195.21933 a 134.28572,134.28572 0 1 1 -268.571444,0 134.28572,134.28572 0 1 1 268.571444,0 z\" />",
+			"\")\n",
+			"       $('#calendar').fullCalendar( 'addEventSource' , 'script/eventc.json');   ",
+			"script",
+			"<?php echo",
+			";?>",
+			"; ?>",
+			"<?php echo",
+			"; ?>",
+			"<?php echo ",
+			"; ?>",
+			"<? echo",
+			"            @",
+			"; ?>",
+			"<?php echo",
+			"; ?>",
+			"<?php echo",
+			"; ?>",
+			"<?php echo",
+			"; ?>",
+			"<?php echo",
+			"; ?>",
+			"<?php echo",
+			"; ?>",
+			"<?php echo",
+			"; ?>",
+			"<?php echo",
+			";?>",
+			"<?php echo",
+			";?>",
+			"; ?>",
+			"<?php echo",
+			"; ?>",
+			"<?php echo",
+			"; ?>",
+			"<?php echo",
+			"\"><?php echo",
+			"<?php echo",
+			"echo",
+			"\"><?php echo",
+			"<?php echo",
+			"trans",
+			"\"><?php echo trans",
+			"<?php echo ",
+			"trans",
+			"\"><?php echo trans",
+			"<?php echo ",
+			"php",
+			"button",
+			">{{ ",
+			"<?php echo ",
+			"; ?>",
+			"<? echo ",
+			"<?php echo",
+			"; ?>",
+			"<?php echo",
+			"reclamation_amount",
+			"]);\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" \n",
+			"5"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "backbone-colors.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"subst",
+				"app/modules/Submission/SubStdHelper.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

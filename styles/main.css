@@ -1,0 +1,14 @@
+.square{
+    min-width: 100px;
+    min-height: 100px;
+    max-width: 100px;
+}
+.red{
+    background: red;
+}
+.green{
+    background: green;
+}
+.blue{
+    background: blue;
+}
